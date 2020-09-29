@@ -1,0 +1,10 @@
+{
+  "name": "chromepatrol",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@fidm/x509": "^1.2.1",
+    "chrome-remote-interface": "^0.28.2"
+  }
+}
